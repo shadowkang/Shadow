@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: 'Inter', sans-serif;
+  background-color: #F5F9FF;
+  color: #2C3E50;
+  scroll-behavior: smooth;
+}
+
+@layer base {
+  :root {
+    --background: 210 100% 98%;
+    --foreground: 210 29% 24%;
+    --card: 0 0% 100%;
+    --card-foreground: 210 29% 24%;
+    --primary: 210 83% 53%;
+    --primary-foreground: 0 0% 100%;
+    --secondary: 199 89% 48%;
+    --secondary-foreground: 0 0% 100%;
+    --accent: 199 94% 64%;
+    --accent-foreground: 0 0% 100%;
+    --border: 210 29% 97%;
+    --input: 210 29% 97%;
+    --ring: 210 83% 53%;
+    --radius: 0.5rem;
+  }
+}
+
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #F5F9FF;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #1E88E5;
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #42A5F5;
+}
+
+/* Progress bar animation */
+@keyframes progress {
+  0% {
+    width: 0%;
+  }
+  100% {
+    width: var(--progress-width);
+  }
+}
+
+/* 在src/index.css中添加 */
+@layer base {
+  .dark body {
+    color: white;
+  }
+
+  .dark h1, .dark h2, .dark h3, .dark h4, .dark h5, .dark h6 {
+    color: lightskyblue;
+  }
+
+  .dark p {
+    color: #e5e7eb; /* gray-200 */
+  }
+
+  /* 对于默认情况下可能会被覆盖的元素 */
+  .dark .text-text {
+    color: white !important;
+  }
+
+  .dark .text-text-light {
+    color: #d1d5db !important; /* gray-300 */
+  }
+}

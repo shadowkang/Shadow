@@ -1,0 +1,145 @@
+{
+  "nav": {
+    "WEB": "Personal Website",
+    "home": "Home",
+    "about": "About",
+    "experience": "Experience",
+    "projects": "Projects",
+    "skills": "Skills",
+    "education": "Education",
+    "contact": "Contact"
+  },
+  "loading": "Loading...",
+  "hero": {
+    "greetingWithName": "Hello, I'm <1>Jinyuan Kang</1>",
+    "title": "AI & Data Specialist",
+    "description": "I am a data professional with expertise in machine learning and data analysis. Currently pursuing a Master's degree in Artificial Intelligence at the University of Auckland, I combine strong mathematical foundations with practical experience in data analytics and machine learning implementation.",
+    "cta": "Contact Me"
+  },
+  "about": {
+    "title": "About Me",
+    "subtitle": "AI & Data Specialist",
+    "p1": "I am Jinyuan Kang, a data professional currently pursuing a Master's degree in Artificial Intelligence at the University of Auckland. With a Bachelor's in Mathematics and Computer Science, I combine strong theoretical foundations with practical implementation skills.",
+    "p2": "In my professional journey, I've focused on data analysis and machine learning, developing various AI projects and data-driven solutions. I am proficient in Python, SQL, and various machine learning frameworks including PyTorch, TensorFlow, and Transformers.",
+    "p3": "I am passionate about artificial intelligence and data science, with particular interest in developing innovative solutions that generate actionable insights. Currently, I am seeking opportunities in AI and data analytics where I can leverage my technical expertise while continually expanding my knowledge and skills.",
+    "techstack": "Tech Stack",
+    "techstack.desc": "Proficient in Python, Machine Learning frameworks, and various data analysis tools",
+    "education": "Education",
+    "education.desc": "Master of Artificial Intelligence & Bachelor of Science in Math and Computer Science from University of Auckland",
+    "projects": "Projects",
+    "projects.desc": "Developed multiple AI/ML projects, including sentiment analysis models and intelligent recommendation systems"
+  },
+  "experience": {
+    "title": "Work Experience",
+    "position1": "Math and Computer Science Tutor",
+    "company1": "NZ Academy Learning Centre",
+    "location1": "Auckland",
+    "period1": "September 2023 - Present",
+    "job1": {
+      "desc1": "Deliver courses to students, adapting teaching methods and instructional materials to meet students' varying needs and interests.",
+      "desc2": "Maintain regular communications with students, addressing concerns and answering questions to improve their academic performance.",
+      "desc3": "Keep detailed records of goals, activities, and results of each lesson to track student progress and provide a basis for future lesson planning.",
+      "desc4": "Develop customized learning plans based on individual student needs and learning styles.",
+      "desc5": "Provide specialized instruction in mathematics and computer science topics including data structures, algorithms, and programming concepts."
+    },
+    "position2": "Data Analyst",
+    "company2": "Guosen Securities Research Institute",
+    "location2": "Data Analysis",
+    "period2": "August 2022 - July 2023",
+    "job2": {
+      "desc1": "Conducted in-depth research of stock/futures upstream and downstream products, identifying key drivers and analyzing performance trends.",
+      "desc2": "Utilized linear regression to quantify relationships between market variables and predict future trends.",
+      "desc3": "Implemented Python and SQL solutions to streamline data processing, significantly reducing operational costs.",
+      "desc4": "Employed BI tools to uncover market trends and support informed strategic decisions.",
+      "desc5": "Generated comprehensive reports summarizing key findings and delivered clear, actionable insights to stakeholders."
+    }
+  },
+  "projects": {
+    "title": "My Projects",
+    "all": "All",
+    "react": "AI",
+    "frontend": "Full Stack",
+    "machinelearning": "Machine Learning",
+    "code": "Code",
+    "demo": "Demo"
+  },
+  "projectDetail": {
+    "viewDetails": "View Details",
+    "description": "Description",
+    "features": "Features",
+    "technologies": "Technologies",
+    "date": "Date",
+    "viewCode": "View Code",
+    "close": "Close"
+  },
+  "skills": {
+    "title": "Skills",
+    "frontend": "Programming",
+    "backend": "Data Science",
+    "frameworks": "Machine Learning",
+    "tools": "Tools"
+  },
+  "education": {
+    "title": "Education Background",
+    "education": "Education",
+    "master": "Master of Artificial Intelligence",
+    "bachelor": "Bachelor of Science (Math and Computer Science)",
+    "university": "University of Auckland",
+    "period1": "February 2024 - November 2025",
+    "desc1": "Currently pursuing a Master's degree in Artificial Intelligence at the University of Auckland, focusing on advanced machine learning techniques, neural networks, and intelligent systems.",
+    "period2": "July 2020 - November 2022",
+    "desc2": "Completed a Bachelor's degree in Science with double major in Mathematics and Computer Science at the University of Auckland, studying fundamental theories and practical skills in computational mathematics and algorithms.",
+    "courses": "Related Courses:",
+    "course1": "Machine Learning",
+    "course2": "Neural Networks",
+    "course3": "Data Structures",
+    "course4": "Algorithms",
+    "course5": "Database Systems",
+    "course6": "Artificial Intelligence",
+    "course7": "Statistical Analysis",
+    "course8": "Advanced Mathematics",
+    "achievements": "Projects & Achievements",
+    "achievement1": "Course Planning and Recommendation System: Led development of an end-to-end recommendation system with 40% higher efficiency",
+    "achievement2": "Sentiment Analysis of Restaurant Reviews: Developed multi-label classification model with 81% accuracy for Chinese restaurant reviews"
+  },
+  "contact": {
+    "title": "Contact Me",
+    "subtitle": "Have a question or want to work together? Feel free to get in touch!",
+    "info": "Contact Information",
+    "email": "Email",
+    "phone": "Phone",
+    "location": "Location",
+    "location.value": "Auckland, Mt Roskill 1041",
+    "social": "Social Media",
+    "message": "Send Me a Message",
+    "form": {
+      "name": "Name",
+      "name.placeholder": "Your name",
+      "email": "Email",
+      "email.placeholder": "Your email",
+      "message": "Message",
+      "message.placeholder": "Your message",
+      "send": "Send Message",
+      "sending": "Sending...",
+      "success": "Thank you for your message! I will get back to you as soon as possible.",
+      "error": "Please fill in all fields"
+    },
+    "chatbot": "AI Assistant",
+    "chatbot.placeholder": "How can I help you?",
+    "chatbot.send": "Send"
+  },
+  "footer": {
+    "rights": "All rights reserved",
+    "made": "Made with",
+    "and": "and",
+    "react": "React"
+  },
+  "theme": {
+    "toggle": "Toggle theme",
+    "light": "Light mode",
+    "dark": "Dark mode"
+  },
+  "language": {
+    "toggle": "中文"
+  }
+}

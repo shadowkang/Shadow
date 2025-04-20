@@ -1,0 +1,146 @@
+{
+  "nav": {
+    "WEB": "个人网页",
+    "home": "首页",
+    "about": "关于",
+    "experience": "经验",
+    "projects": "项目",
+    "skills": "技能",
+    "education": "教育",
+    "contact": "联系"
+  },
+  "loading": "加载中...",
+  "hero": {
+    "greeting": "你好，我是<1>康津源</1>",
+    "greetingWithName": "你好，我是<1>康津源</1>",
+    "title": "人工智能与数据专家",
+    "description": "我是一名数据专业人士，专注于机器学习和数据分析领域。目前在奥克兰大学攻读人工智能硕士学位，我将扎实的数学基础与数据分析和机器学习实践经验相结合，致力于解决复杂的数据问题。",
+    "cta": "联系我"
+  },
+  "about": {
+    "title": "关于我",
+    "subtitle": "人工智能与数据专家",
+    "p1": "我是康津源，一名数据专业人士，目前在奥克兰大学攻读人工智能硕士学位。拥有数学与计算机科学的学士学位背景，我兼具强大的理论基础和实践技能。",
+    "p2": "在我的职业生涯中，我专注于数据分析和机器学习，开发了多个人工智能项目和数据驱动解决方案。我精通Python、SQL和各种机器学习框架，包括PyTorch、TensorFlow和Transformers。",
+    "p3": "我对人工智能和数据科学充满热情，特别关注开发能够产生可行见解的创新解决方案。目前，我正在寻找能够发挥我技术专长的人工智能和数据分析职位，同时不断拓展我的知识和技能。",
+    "techstack": "技术栈",
+    "techstack.desc": "精通Python、机器学习框架和各种数据分析工具",
+    "education": "教育",
+    "education.desc": "奥克兰大学人工智能硕士和数学与计算机科学学士学位",
+    "projects": "项目",
+    "projects.desc": "开发多个AI/ML项目，包括情感分析模型和智能推荐系统"
+  },
+  "experience": {
+    "title": "工作经历",
+    "position1": "数学与计算机科学导师",
+    "company1": "NZ Academy学习中心",
+    "location1": "奥克兰",
+    "period1": "2023年9月 - 至今",
+    "job1": {
+      "desc1": "为学生提供课程，调整教学方法和教学材料以满足学生不同的需求和兴趣。",
+      "desc2": "与学生保持定期沟通，解决学生的疑问并回答问题，以提高他们的学术表现。",
+      "desc3": "详细记录每节课的目标、活动和结果，以跟踪学生进度并为未来的课程规划提供基础。",
+      "desc4": "根据个别学生的需求和学习风格开发定制化的学习计划。",
+      "desc5": "提供数学和计算机科学专业指导，包括数据结构、算法和编程概念等主题。"
+    },
+    "position2": "数据分析师",
+    "company2": "国信证券研究所",
+    "location2": "数据分析",
+    "period2": "2022年8月 - 2023年7月",
+    "job2": {
+      "desc1": "对股票/期货上下游产品进行深入研究，识别关键驱动因素并分析业绩趋势。",
+      "desc2": "利用线性回归量化市场变量之间的关系并预测未来趋势。",
+      "desc3": "实施Python和SQL解决方案以简化数据处理流程，显著降低运营成本。",
+      "desc4": "运用商业智能工具发现市场趋势并支持明智的战略决策。",
+      "desc5": "生成全面的报告总结关键发现，并向利益相关者提供清晰、可行的见解。"
+    }
+  },
+  "projects": {
+    "title": "我的项目",
+    "all": "全部",
+    "react": "人工智能",
+    "frontend": "数据",
+    "fullstack": "机器学习",
+    "code": "代码",
+    "demo": "演示"
+  },
+  "projectDetail": {
+    "viewDetails": "查看详情",
+    "description": "项目描述",
+    "features": "主要功能",
+    "technologies": "技术栈",
+    "date": "开发日期",
+    "viewCode": "查看代码",
+    "close": "关闭"
+  },
+  "skills": {
+    "title": "技能",
+    "frontend": "编程",
+    "backend": "数据科学",
+    "frameworks": "机器学习",
+    "tools": "工具"
+  },
+  "education": {
+    "title": "教育背景",
+    "education": "教育",
+    "master": "人工智能硕士",
+    "bachelor": "理学学士（数学与计算机科学）",
+    "university": "奥克兰大学",
+    "period1": "2024年2月 - 2025年11月",
+    "desc1": "目前在奥克兰大学攻读人工智能硕士学位，专注于高级机器学习技术、神经网络和智能系统。",
+    "period2": "2020年7月 - 2022年11月",
+    "desc2": "在奥克兰大学完成理学学士学位，主修数学和计算机科学，学习计算数学和算法的基础理论和实践技能。",
+    "courses": "相关课程：",
+    "course1": "机器学习",
+    "course2": "神经网络",
+    "course3": "数据结构",
+    "course4": "算法",
+    "course5": "数据库系统",
+    "course6": "人工智能",
+    "course7": "统计分析",
+    "course8": "高等数学",
+    "achievements": "项目与成就",
+    "achievement1": "课程规划和推荐系统：领导开发了一个端到端推荐系统，效率提高40%",
+    "achievement2": "餐厅评论情感分析：开发了一个多标签分类模型，对中文餐厅评论的准确率达到81%"
+  },
+  "contact": {
+    "title": "联系我",
+    "subtitle": "有问题或想一起合作？请随时联系我！",
+    "info": "联系信息",
+    "email": "邮箱",
+    "phone": "电话",
+    "location": "地点",
+    "location.value": "奥克兰，Mt Roskill 1041",
+    "social": "社交媒体",
+    "message": "给我发消息",
+    "form": {
+      "name": "姓名",
+      "name.placeholder": "您的姓名",
+      "email": "邮箱",
+      "email.placeholder": "您的邮箱",
+      "message": "消息",
+      "message.placeholder": "您的消息",
+      "send": "发送消息",
+      "sending": "发送中...",
+      "success": "感谢您的消息！我会尽快回复您。",
+      "error": "请填写所有字段"
+    },
+    "chatbot": "AI助手",
+    "chatbot.placeholder": "有什么可以帮您的？",
+    "chatbot.send": "发送"
+  },
+  "footer": {
+    "rights": "保留所有权利",
+    "made": "用",
+    "and": "和",
+    "react": "React"
+  },
+  "theme": {
+    "toggle": "切换主题",
+    "light": "浅色模式",
+    "dark": "深色模式"
+  },
+  "language": {
+    "toggle": "English"
+  }
+}
