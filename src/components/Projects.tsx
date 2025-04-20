@@ -9,7 +9,7 @@ import ProjectDetail, { ProjectDetails } from './ProjectDetail';
 // 项目列表数据
 const projectsData: ProjectDetails[] = [
   {
-    id: '1',
+    id: String(1),
     title: 'Course Planning and Recommendation System',
     category: 'Full Stack',
     description: 'An end-to-end system for course planning and recommendations using Django and MySQL',
@@ -33,7 +33,7 @@ const projectsData: ProjectDetails[] = [
     ]
   },
   {
-    id: '2',
+    id: String(2),
     title: 'Sentiment Analysis of Restaurant Reviews',
     category: 'Machine Learning',
     description: 'A multi-label sentiment analysis model for restaurant reviews using LSTM and Word2Vec',
@@ -57,7 +57,7 @@ const projectsData: ProjectDetails[] = [
     ]
   },
   {
-    id: '3',
+    id: String(3),
     title: 'Task Complexity-driven Continual Learning',
     category: 'Machine Learning',
     description: 'A continual learning framework with progressive prompts for NLP tasks',
